@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [https://qr-code-component-ndc.netlify.app/](https://qr-code-component-ndc.netlify.app/)
--   Live Site URL: [https://www.frontendmentor.io/solutions/qr-card-component-with-html-tailwindcss-and-vite-jPRPtVHOc6](https://www.frontendmentor.io/solutions/qr-card-component-with-html-tailwindcss-and-vite-jPRPtVHOc6)
+-   Live Site URL: [https://qr-code-component-ndc.netlify.app/](https://qr-code-component-ndc.netlify.app/)
+-   Solution URL: [https://www.frontendmentor.io/solutions/qr-card-component-with-html-tailwindcss-and-vite-jPRPtVHOc6](https://www.frontendmentor.io/solutions/qr-card-component-with-html-tailwindcss-and-vite-jPRPtVHOc6)
 
 ## My process
 
